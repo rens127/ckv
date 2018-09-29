@@ -1,0 +1,7 @@
+.dots a:active, .dots a:focus {
+	outline: 0;
+	}
+
+img {
+	border: 0px none;
+}
