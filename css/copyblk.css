@@ -1,12 +1,12 @@
 @font-face {
-	font-family: Panton Black Caps;
-	src: url(../font/Panton-BlackCaps.otf);
+	font-family: Uni Sans Heavy;
+	src: url(../font/Uni Sans Heavy.otf);
 
 body{ 
 	color:#000;
 	font-size: 12px;
 	line-height: 14px;
-	font-family: Panton Black Caps, Arial, "Lucida Grande", sans-serif;
+	font-family: Uni Sans Heavy, Arial, "Lucida Grande", sans-serif;
 }
 
 
