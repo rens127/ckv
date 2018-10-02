@@ -1,12 +1,9 @@
-@font-face{
-	font-family: "Uni Sans Heavy";
-	src: url("../font/Uni_Sans_Heavy.otf");
-
 body{ 
 	color:#FFF;
 	font-size: 12px;
 	line-height: 14px;
-	font-family: "Uni Sans Heavy", Arial, "Lucida Grande", sans-serif;
+	font-weight: bolder;
+	font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 
